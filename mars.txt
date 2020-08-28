@@ -1,2 +1,4 @@
 Mars is red. It is also cold and rather dry.
 
+Mars has two moons, Phobos and Deimos.
+
